@@ -1,0 +1,20 @@
+{
+    "testArray": [
+        "Enis",
+        "Mirza",
+        ["Enis", "Orhan", "Nermin", "Damir"],
+        "Nermin",
+        ["Irma", "Benjamin", "Himzo", "Vernisa", "Muradif"],
+        "Merima",
+        "",
+        [],
+        "Amir",
+        "Damir",
+        ["Enis", "Damir", "Admir", "Nermin"],
+        "Nermin", 
+        "",
+        "Damir",
+        [],
+        "Nermin"
+    ]
+}
